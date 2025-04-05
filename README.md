@@ -10,15 +10,12 @@
 <h3 align="center">
   Software Engineer | Backend Developer
 </h3>
-<h4 align="center"> Django | Flask | NestJS |  | SQL | SQLAlchemy | Django ORM </h4>
+<h4 align="center"> Django | Flask | NestJS | Nodejs | Express |  | SQL | SQLAlchemy | Django ORM </h4>
 <hr>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Studying Software Engineering at ALX
-
-- 🤝 I’m available for Project | Startup | Freelancing.
 -  📫 How to reach me **patodeh111@gmail.com**
 
 <br/>
