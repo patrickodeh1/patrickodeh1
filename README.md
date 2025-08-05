@@ -8,9 +8,9 @@
     Hi, I'm Patrick
 </h1>
 <h3 align="center">
-  Software Engineer | Backend Developer
+   Backend Engineer 
 </h3>
-<h4 align="center"> Django | Flask | NestJS | Nodejs | Express |  | SQL | SQLAlchemy | Django ORM </h4>
+<h4 align="center"> Pyhon | Django | DRF | PostgreSQL | MySQL | Django ORM </h4>
 <hr>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -24,7 +24,7 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,py,c,bash,linux,git,github,githubactions,vim,md,aws,ts" />
+    <img src="https://skillicons.dev/icons?i=py,django,bash,linux,git,github,githubactions,md">
   </a>
 </p>
 
